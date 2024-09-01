@@ -12,7 +12,7 @@ awayCoach = input("Enter the away coach: ") # Get the away coach - Ex. Jedd Fisc
 
 # Configure Bearer authorization: apiKey
 configuration = cfbd.Configuration(
-    access_token = 'Cmpicna3D/RHV77GOtnEMzqCWzpUq0OwHGG444fw6AwrMt86EpMvxgDdXKUdwYOD'
+    access_token = 'API KEY HERE'    # Get your API key from here: https://collegefootballdata.com/
 )
 
 # Get the home team's roster
