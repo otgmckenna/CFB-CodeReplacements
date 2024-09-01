@@ -3,4 +3,4 @@ Small script to automate the generation of text files that can be used in progra
 
 # Requirements:
 * Pandas
-* (cfbd)[https://collegefootballdata.com/]
+* [cfbd](https://collegefootballdata.com/)
